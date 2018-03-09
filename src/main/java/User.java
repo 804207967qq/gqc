@@ -8,6 +8,6 @@ public class User {
     public void setId(Integer id){
         this.id=id;
     }
-    private String  name;
+    
 
 }
